@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-## Para todOs, todAs y todXs** 
+## Para todOs, todAs y todXs
 
 Se forma como un proyecto conjunto y horizontal que promueve la colectivización de la información. Mucha de esta información
 fue generada durante la toma de instalaciones de la ENES unidad Morelia, esta toma y el paro de actividades se derivó de una 
